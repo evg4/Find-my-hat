@@ -11,4 +11,3 @@ JavaScript.
 ## Licence
 Please see license document.
 
-**Last updated:** 18/07/23
